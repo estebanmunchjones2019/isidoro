@@ -48,7 +48,7 @@ List of implemented features:
 
 List of improvements that could be done:
 
-* Make it responsive for mobile devices, but there's is the email provider limitation about this matter.
+* Make it responsive for mobile devices, but there's an email provider limitation about this matter.
 
   
 
