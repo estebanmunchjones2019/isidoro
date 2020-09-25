@@ -16,7 +16,7 @@
 
 ## General info
 
-This project was coded to provide _**Isidoro** alfajores_ with a modern, well looking and functional email signature. The aim was also translate the professionalism they put in their products to the email world.
+This project was coded to provide [_**Isidoro** alfajores_](https://www.isidoroalfajores.com.ar/) with a modern, well looking and functional email signature. The aim was also to translate the professionalism they put in their products to the email world.
 
 
 
